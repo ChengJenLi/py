@@ -1,4 +1,8 @@
 # py
+“如果這是您第一次用 Python 編碼，我很樂意建議您從基礎開始。它們易於理解，希望對您來說很有趣。”
+
+這份開源專案包含了十幾個主題，重點包括：基礎知識、資料科學、機器學習、深度學習、matplotlib、numpy、pandas 等。
+
 Repository to store sample Python programs.
 
 This repository is meant for beginners to assist them in their learning of Python. The repository covers a wide range of algorithms and other programs, and would prove immensely helpful for everybody interested in Python programming.
